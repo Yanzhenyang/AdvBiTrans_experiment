@@ -41,3 +41,9 @@ pip install -r requirements.txt
 
 
 ## 📊 Datasets
+The foundational datasets utilized in this paper are publicly accessible. The N-BaIoT dataset can be obtained from the official repository at
+http://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT.
+The CIC-DDoS2019 dataset is available at https://www.unb.ca/cic/datasets/ddos-2019.html.
+
+## 🧪 Run Experiment
+You can open and execute each .ipynb notebook in order using Jupyter Notebook or VSCode with Python extension.
